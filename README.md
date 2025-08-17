@@ -29,10 +29,10 @@ A bookmarklet tool for the **Perplexity Comet browser** that creates a Table of 
 ![TOC Sidebar](Screen%20Shot%202025-08-16%20at%2010.15.43%20PM.png)
 
 ### Pase code
-![Questions Indexed](Screen%20Shot%202025-08-16%20at%2010.16.17%20PM.png)
+![Questions](Screen%20Shot%202025-08-16%20at%2010.16.17%20PM.png)
 
 ### In action
-![Smooth Scroll](Screen%20Shot%202025-08-16%20at%2010.16.58%20PM.png)
+![TOC Sidebar Screenshot](Screen%20Shot%202025-08-16%20at%2011.56.17%20PM.png)
 
 
 ## License
