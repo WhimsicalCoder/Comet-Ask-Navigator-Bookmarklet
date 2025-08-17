@@ -13,6 +13,7 @@ A bookmarklet tool for the **Perplexity Comet browser** that creates a Table of 
 - Numbered and highlighted entries for clarity.
 - Compact, non-intrusive design.
 - If you move to another thread, click Hide and then Expand to refresh the TOC for that new thread.
+- Shrink the TOC to a small strip on the side to avoid obstructing content, and expand it back when needed.
 
 ## How to Use
 
